@@ -1,5 +1,5 @@
 Toby Hayward
-Hi there! 👋 I've been occupied with finishing up my Tiny House project, and concurrently, I'm engrossed in a personal project involving websockets, web scrapping, Python multithreading, automation, and more.
+**Hi there! 👋 I've been occupied with finishing up my Tiny House project, and concurrently, I'm engrossed in a personal project involving websockets, web scrapping, Python multithreading, automation, and more.
 
 Key Highlights
 Passion for Problem Solving: I absolutely love delving into challenges and finding innovative solutions.
